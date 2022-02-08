@@ -26,27 +26,60 @@
 
 **PROCEDIMIENTO**
 
+
+**CIRCUITO CON CAPACITORES**
+
+**a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.**
+
+0 Hz
+
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/1.png)
+
+10 Hz
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/2.png)
 
+50 Hz
+
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/3.png)
+
+100 Hz
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/4.png)
 
+500 Hz
+
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/5.png)
+
+1000 Hz
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/6.png)
 
+**CIRCUITO CON INDUCTORES**
+
+**a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.**
+
+0 Hz
+
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/7.png)
+
+10 Hz
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/8.png)
 
+50 Hz
+
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/9.png)
+
+100 Hz
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/10.png)
 
+500 Hz
+
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/11.png)
+
+1000 Hz
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/12.png)
 
