@@ -16,28 +16,50 @@
 
 **MATERIALES**
 
-![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/1.png)
+
 
 **CIRCUITOS ANALIZADOS**
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/15.png)
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/16.png)
 
 **PROCEDIMIENTO**
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/1.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/2.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/3.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/4.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/5.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/6.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/7.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/8.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/9.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/10.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/11.png)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/12.png)
 
 **RECOPILACIÓN DE DATOS**
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/13.png)
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/14.png)
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **CUESTIONARIO**
 
-**CALCULO DE ERROR**
-
-Formula de Porcentaje de Error
-
-![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20E/L_F.JPG)
 
 
 # 5. VIDEO
