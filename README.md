@@ -145,9 +145,64 @@
 
 **RECOPILACIÓN DE DATOS**
 
-![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/13.PNG)
 
-![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/14.PNG)
+
+**c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+0 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_E1.JPG)
+
+10 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_E2.JPG)
+
+50 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_E3.JPG)
+
+100 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_E4.JPG)
+
+500 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_E5.JPG)
+
+1000 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_E6.JPG)
+
+**CIRCUITO CON INDUCTORES**
+
+**c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+0 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_H1.JPG)
+
+10 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_H2.JPG)
+
+50 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_H3.JPG)
+
+100 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_H4.JPG)
+
+500 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_H5.JPG)
+
+1000 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_H6.JPG)
+
+**RECOPILACIÓN DE DATOS**
+
 
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
