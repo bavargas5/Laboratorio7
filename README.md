@@ -16,7 +16,7 @@
 
 **MATERIALES**
 
-
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/1.png)
 
 **CIRCUITOS ANALIZADOS**
 
