@@ -89,6 +89,8 @@
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/14.png)
 
+**CIRCUITO CON CAPACITORES**
+
 **b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valoresde 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 0 Hz
@@ -147,6 +149,8 @@
 
 
 
+**CIRCUITO CON CAPACITORES**
+
 **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 0 Hz
@@ -203,7 +207,9 @@
 
 **RECOPILACIÓN DE DATOS**
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_D1.JPG)
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%203/PC_D2.JPG)
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
