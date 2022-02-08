@@ -272,4 +272,8 @@ distintos?
 
 # 7. BIBLIOGRAFÍA
 
+- Los condensadores. (2012, 28 diciembre). LA TECNOLOGÍA EN LA ESO. Recuperado 7 de febrero de 2022, de https://www3.gobiernodecanarias.org/medusa/ecoblog/jgutcor/los-condensadores/
 
+- El inductor. (2018, 9 febrero). Plantas eléctricas. Recuperado 7 de febrero de 2022, de https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/
+
+- Mecafenix. (2021, 4 enero). ¿Qué es un capacitor? Y sus tipos. Ingeniería Mecafenix. Recuperado 7 de febrero de 2022, de https://www.ingmecafenix.com/electronica/el-capacitor/
