@@ -10,13 +10,25 @@
 
 # 2. MARCO TEÓRICO
 
-
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/17.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 **MATERIALES**
 
+- Generador de señales
 
+- Fuente DC
+
+- Osciloscopio
+
+- Protoboard
+
+- Multímetro
+
+- Cables conductores
+
+- Resistencias, bobinas y capacitores.
 
 **CIRCUITOS ANALIZADOS**
 
