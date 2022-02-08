@@ -4,9 +4,15 @@
 
 **General**
 
+Examinar el funcionamiento de los capacitores e inductores por medio de su aplicación en un circuito para la posterior toma de valores con los instrumentos adecuados de medición.
 
 **Específicos**
 
+-	Utilizar de manera adecuada el osciloscopio
+
+-	Interpretar los valores medidos
+
+-	Comparar los valores medidos en cada circuito planteado
 
 # 2. MARCO TEÓRICO
 
@@ -258,7 +264,11 @@ distintos?
 
 # 6. CONCLUSIONES
 
+-	En conclusión, los capacitores e inductores reaccionan distinto dependiendo del tipo de corriente que circuirle por ellos, además en el caso de corriente alterna la frecuencia a la que esta trabaje determina que valor pico de voltaje se obtiene en el osciloscopio.
 
+-	Los valores de voltaje obtenidos en el osciloscopio en el multímetro son algo diferentes, debido a que en el osciloscopio se muestra la onda seno completa y por tanto el voltaje pico, mientras que en el multímetro se muestra el valor RMS el cual es menor al voltaje pico.
+
+-	Al variar la frecuencia de la fuente tanto los capacitores como los inductores arrojan valores de voltaje distintos, cuando se aumenta la frecuencia en el circuito con capacitores el volteje cada vez es más pequeño mientras que con los inductores ocurre todo lo contrario. 
 
 # 7. BIBLIOGRAFÍA
 
