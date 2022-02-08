@@ -143,6 +143,12 @@
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/12.PNG)
 
+**RECOPILACIÓN DE DATOS**
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/13.PNG)
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/14.PNG)
+
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -151,10 +157,17 @@
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 
+Si unimos un capacitor a una fuente de corriente directa observamis que no va a fluir la corriente en el capacitor, por lo cual el capacitor se estaria comportando como un circuito abierto y lo mismo pasa con la bobina
+
+
+
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 
+Cuando tenemos corriente alterna la bobina tiene una resistencia que se opone al paso de la corriente eléctrica 
+
+En cambio cuando conectados un capacitor a una fuente de corriente alterna   cambia el voltaje en ambas placas y este es igual al cambio que pasa en las placas del capacitor
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
