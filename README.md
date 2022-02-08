@@ -147,7 +147,9 @@
 
 **RECOPILACIÓN DE DATOS**
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/13.PNG)
 
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/14.PNG)
 
 **CIRCUITO CON CAPACITORES**
 
