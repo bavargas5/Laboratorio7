@@ -250,13 +250,13 @@ Cuando tenemos corriente alterna la bobina tiene una resistencia que se opone al
 
 En cambio cuando conectados un capacitor a una fuente de corriente alterna   cambia el voltaje en ambas placas y este es igual al cambio que pasa en las placas del capacitor
 
-3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
-circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
-distintos?
+3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
 
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+El termino de valores eficaces en electrónica, atribuido para voltaje y corriente, refiriéndose al cuyo producto daría en un circuito una misma potencia resultante. Es referido al valor que ocupa una corriente alterna, el cual de igual forma posee una corriente directa, las cuales producen un mismo valor de potencia al aplicar ambas fuentes ac y dc sobre una misma resistencia.
 
 # 5. VIDEO
 
