@@ -252,7 +252,11 @@ En cambio cuando conectados un capacitor a una fuente de corriente alterna   cam
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+A pesar de que los circuitos mostrados prevalescan de la prescencia de una corriente alterna; los principios a los cuales estan sometidos los compotentes, tanto los capacitores, asi como los inductores, en referencia a la resistencia de ambos circutos son regidos enpartes por la ley de Ohm. No obstante a pesar de compartir igualdad con dicha ley al ser componentes distinto es necesario resolverse por partes; si es posible entre aquellos compontes de igual tendencia de trabajo para conseguir datos tanto de voltaje asi como de corriente y dado a favor para nuestra conveniencia, el circuito proporciona una distribucion de los componentes de manera que facilita el trabajo por sus similitudes.
 
+El el uso de valores distintos en la inductancia asi como en la capacitancia, en funcion de los valores que produzcan tanto en voltaje como en corriente, es directamente proporcional al tamaño del valor. Sinedo las capacitancias en paralelo dependiendo del valor, siendo un valor mas pequeño que de una que el de la otra, la corriente asi como el voltaje incrementarian debido a la baja resistividad que precede en el que precede el numero de frecuencias de la corriente alterna y asi mismo en viceverce con valores de capacitancia desiguales pero una mas grande en valor que el otro, se dara en aumento. 
+
+En el caso de las inductancias la desigualdad precede a perdidas mucho mas grandes sobre todo dependiendo si una de las inductancias es mas pequeña, puesto que tomara el valor inductivo en un procentaje más pequeño, cuyo proceso es debido a su distribucion en paralelo, sindo asi nunca obtendra una inductancia mas grande que aquellos menores al valor de la inductancia mas pequeña, permitiendo un crecimiento sustancial en el voltaje y la corriente.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
