@@ -89,6 +89,61 @@
 
 ![](https://github.com/bavargas5/Laboratorio7/blob/main/IMGBV/14.png)
 
+**b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valoresde 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+0 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/1.PNG)
+
+10 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/2.PNG)
+
+50 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/3.PNG)
+
+100 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/4.PNG)
+
+500 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/5.PNG)
+
+1000 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/6.PNG)
+
+**CIRCUITO CON INDUCTORES**
+
+**b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valoresde 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+0 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/7.PNG)
+
+10 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/8.PNG)
+
+50 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/9.PNG)
+
+100 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/10.PNG)
+
+500 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/11.PNG)
+
+1000 Hz
+
+![](https://github.com/bavargas5/Laboratorio7/blob/main/IMG%20BN/12.PNG)
+
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **CUESTIONARIO**
