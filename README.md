@@ -264,7 +264,7 @@ El termino de valores eficaces en electrónica, atribuido para voltaje y corrien
 
 # 5. VIDEO
 
-
+https://youtu.be/V1oPAOJeSus
 
 # 6. CONCLUSIONES
 
